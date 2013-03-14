@@ -1,0 +1,31 @@
+C:\computer science\Zune Final Project\Math_Blaster\Math_Blaster\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\computer science\Zune Final Project\Math_Blaster\Math_Blaster\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\computer science\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Content\MenuFont.xnb
+C:\computer science\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Content\InstructionFont.xnb
+C:\computer science\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Content\CreditFont.xnb
+C:\computer science\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Content\menubackground.xnb
+C:\computer science\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Content\Rocket.xnb
+C:\computer science\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Content\GameScreenTemplate.xnb
+C:\computer science\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Math_Blaster.exe
+C:\computer science\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Math_Blaster.pdb
+C:\computer science\Zune Final Project\Math_Blaster\Math_Blaster\obj\x86\Debug\Math_Blaster.exe
+C:\computer science\Zune Final Project\Math_Blaster\Math_Blaster\obj\x86\Debug\Math_Blaster.pdb
+C:\Users\Darwin\Desktop\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\Darwin\Desktop\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Content\InstructionFont.xnb
+C:\Users\Darwin\Desktop\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Content\CreditFont.xnb
+C:\Users\Darwin\Desktop\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Content\menubackground.xnb
+C:\Users\Darwin\Desktop\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Content\Rocket.xnb
+C:\Users\Darwin\Desktop\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Content\GameScreenTemplate.xnb
+C:\Users\Darwin\Desktop\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Math_Blaster.exe
+C:\Users\Darwin\Desktop\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Math_Blaster.pdb
+C:\Users\Darwin\Desktop\Zune Final Project\Math_Blaster\Math_Blaster\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Darwin\Desktop\Zune Final Project\Math_Blaster\Math_Blaster\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Darwin\Desktop\Zune Final Project\Math_Blaster\Math_Blaster\obj\x86\Debug\Math_Blaster.exe
+C:\Users\Darwin\Desktop\Zune Final Project\Math_Blaster\Math_Blaster\obj\x86\Debug\Math_Blaster.pdb
+C:\Users\Darwin\Desktop\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Content\AnswersFont.xnb
+C:\Users\Darwin\Desktop\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Content\QuestionFont.xnb
+C:\Users\Darwin\Desktop\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Content\ScoreFont.xnb
+C:\Users\Darwin\Desktop\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Content\TitleFonts.xnb
+C:\Users\Darwin\Desktop\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Content\FuelBar.xnb
+C:\Users\Darwin\Desktop\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Content\PressToStart.xnb
+C:\Users\Darwin\Desktop\Zune Final Project\Math_Blaster\Math_Blaster\bin\x86\Debug\Content\GameOverScreen.xnb
